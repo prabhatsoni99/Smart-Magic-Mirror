@@ -1,4 +1,4 @@
-Reference:-\
+<h3>Reference:-</h3>\
 https://github.com/HackerShackOfficial/Smart-Mirror\
 This is an excellent starter code! Though I might argue ours is better ;)\
 
