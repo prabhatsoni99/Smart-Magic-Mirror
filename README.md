@@ -1,5 +1,5 @@
 <h6>Reference:-</h6></br>
-https://github.com/HackerShackOfficial/Smart-Mirror</br>
+https://github.com/HackerShackOfficial/Smart-Mirror<br/>
 This is an excellent starter code! Though I might argue ours is better ;)</br>
 
 
