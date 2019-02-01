@@ -1,7 +1,4 @@
-Reference:-
-
-https://github.com/HackerShackOfficial/Smart-Mirror
-
+Reference: https://github.com/HackerShackOfficial/Smart-Mirror
 This is an excellent starter code! Though I might argue ours is better ;)
 
 
