@@ -22,6 +22,11 @@ pip3 install --upgrade google-api-python-client<br/>
 pip3 install google_auth_oauthli<br/>
 
 
+<h4>Credentials used for Gmail, Google Calender</h4>
+email: kapsmirror@gmail.com<br/>
+password: magicmirror<br/>
+
+
 <h4>Youtube video:-</h4>
 https://www.youtube.com/watch?v=lDdu4Cqn7X4<br/>
 
