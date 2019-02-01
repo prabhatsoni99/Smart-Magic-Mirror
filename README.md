@@ -4,8 +4,8 @@ This is an excellent starter code! Though I might argue ours is better ;)
 
 
 IED Project by - Prabhat, Kshitij, Anshul, Sargam_
-Magic Mirror__
-Software side - Anshul, Prabhat
+Magic Mirror</br>
+Software side - Anshul, Prabhat\
 Hardware side - Sargam, Kshitij
 
 
