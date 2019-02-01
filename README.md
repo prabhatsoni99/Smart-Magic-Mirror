@@ -22,4 +22,4 @@ pip3 install google_auth_oauthlib
 Youtube video:-
 https://www.youtube.com/watch?v=lDdu4Cqn7X4
 
-Pictures:-
+Pictures coming soon!
