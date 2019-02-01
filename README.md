@@ -1,4 +1,4 @@
-<h3>Reference:-</h3>\
+<h6>Reference:-</h6>\
 https://github.com/HackerShackOfficial/Smart-Mirror\
 This is an excellent starter code! Though I might argue ours is better ;)\
 
@@ -6,7 +6,7 @@ This is an excellent starter code! Though I might argue ours is better ;)\
 
 IED Project by - Prabhat, Kshitij, Anshul, Sargam\
 Magic Mirror\
-Software side - Anshul, Prabhat\
+Software side - Anshul, <b>Prabhat</b>\
 Hardware side - Sargam, Kshitij\
 
 
@@ -16,14 +16,14 @@ Check out this on how to implement Google Asst. in a device:-\
 https://developers.google.com/assistant/sdk/\
 
 
-Dependencies you must install in order for this code to work:-\
+<h6>Dependencies you must install in order for this code to work:-</h6>\
 sudo apt-get install python-imaging-tk\
 sudo pip3 install geocoder\
 pip3 install --upgrade google-api-python-client\
 pip3 install google_auth_oauthlib\
 
 
-Youtube video:-\
+<h6>Youtube video:-</h6>\
 https://www.youtube.com/watch?v=lDdu4Cqn7X4\
 
 
