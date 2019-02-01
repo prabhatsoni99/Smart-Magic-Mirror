@@ -1,6 +1,6 @@
-<h6>Reference:-</h6>\
-https://github.com/HackerShackOfficial/Smart-Mirror\
-This is an excellent starter code! Though I might argue ours is better ;)\
+<h6>Reference:-</h6></br>
+https://github.com/HackerShackOfficial/Smart-Mirror</br>
+This is an excellent starter code! Though I might argue ours is better ;)</br>
 
 
 
@@ -16,11 +16,11 @@ Check out this on how to implement Google Asst. in a device:-\
 https://developers.google.com/assistant/sdk/
 
 
-<h6>Dependencies you must install in order for this code to work:-</h6>\
-sudo apt-get install python-imaging-tk\
-sudo pip3 install geocoder\
-pip3 install --upgrade google-api-python-client\
-pip3 install google_auth_oauthlib
+<h6>Dependencies you must install in order for this code to work:-</h6></br>
+sudo apt-get install python-imaging-tk</br>
+sudo pip3 install geocoder</br>
+pip3 install --upgrade google-api-python-client</br>
+pip3 install google_auth_oauthli</br>
 
 
 <h6>Youtube video:-</h6>\
