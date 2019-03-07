@@ -5,7 +5,7 @@ This is an excellent starter code! Though I might argue ours is better ;)<br>
 
 IED Project by - Prabhat, Kshitij, Anshul, Sargam<br>
 Magic Mirror<br>
-Software side - Anshul, <b>Prabhat</b><br>
+Software side - Anshul, <u>Prabhat</u><br>
 Hardware side - Sargam, Kshitij<br>
 
 
@@ -16,19 +16,18 @@ https://developers.google.com/assistant/sdk/
 
 
 <h4>Dependencies you must install in order for this code to work:-</h4>
-sudo apt-get install python-imaging-tk<br>
-sudo pip3 install geocoder<br>
-pip3 install --upgrade google-api-python-client<br>
-pip3 install google_auth_oauthli<br>
+`sudo apt-get install python-imaging-tk`<br>
+`sudo pip3 install geocoder`<br>
+`pip3 install --upgrade google-api-python-client`<br>
+`pip3 install google_auth_oauthli`<br>
 
 
 <h4>Credentials used for Gmail, Google Calender</h4>
-email: kapsmirror@gmail.com<br>
-password: magicmirror<br>
+email: <b>kapsmirror@gmail.com<b><br>
+password: <b>magicmirror<b><br>
 
 
-<h4>Youtube video:-</h4>
+<h4>Video & Pictures</h4>
 https://www.youtube.com/watch?v=lDdu4Cqn7X4<br>
-
-
 You can view the pictures in the 'Pictures' folder<br>
+<br>
