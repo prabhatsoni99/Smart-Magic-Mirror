@@ -23,8 +23,8 @@ https://developers.google.com/assistant/sdk/
 
 
 <h4>Credentials used for Gmail, Google Calender</h4>
-email: <b>kapsmirror@gmail.com<b><br>
-password: <b>magicmirror<b><br>
+email: <b>kapsmirror@gmail.com</b><br>
+password: <b>magicmirror</b><br>
 
 
 <h4>Video & Pictures</h4>
