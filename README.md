@@ -17,9 +17,9 @@ https://developers.google.com/assistant/sdk/
 
 <h4>Dependencies you must install in order for this code to work:-</h4>
 <code>sudo apt-get install python-imaging-tk</code><br>
-`sudo pip3 install geocoder`<br>
-`pip3 install --upgrade google-api-python-client`<br>
-`pip3 install google_auth_oauthli`<br>
+<code>sudo pip3 install geocoder</code><br>
+<code>pip3 install --upgrade google-api-python-client</code><br>
+pip3 install google_auth_oauthli<br>
 
 
 <h4>Credentials used for Gmail, Google Calender</h4>
