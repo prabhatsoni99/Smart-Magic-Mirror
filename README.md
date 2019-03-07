@@ -1,17 +1,17 @@
 <h4>Reference:-</h4>
-https://github.com/HackerShackOfficial/Smart-Mirror<br/>
-This is an excellent starter code! Though I might argue ours is better ;)<br/>
+https://github.com/HackerShackOfficial/Smart-Mirror<br>
+This is an excellent starter code! Though I might argue ours is better ;)<br>
 
 
-IED Project by - Prabhat, Kshitij, Anshul, Sargam<br/>
-Magic Mirror<br/>
-Software side - Anshul, <b>Prabhat</b><br/>
-Hardware side - Sargam, Kshitij<br/>
+IED Project by - Prabhat, Kshitij, Anshul, Sargam<br>
+Magic Mirror<br>
+Software side - Anshul, <b>Prabhat</b><br>
+Hardware side - Sargam, Kshitij<br>
 
 
-Our project also included Google Assistant - a very cool thing<br/>
-We implemented it parallely with this code & Google Asst. had no relation with this code<br/>
-Check out this on how to implement Google Asst. in a device:-<br/>
+Our project also included Google Assistant - a very cool thing<br>
+We implemented it parallely with this code & Google Asst. had no relation with this code<br>
+Check out this on how to implement Google Asst. in a device:-<br>
 https://developers.google.com/assistant/sdk/
 
 
@@ -23,12 +23,12 @@ pip3 install google_auth_oauthli<br>
 
 
 <h4>Credentials used for Gmail, Google Calender</h4>
-email: kapsmirror@gmail.com<br/>
-password: magicmirror<br/>
+email: kapsmirror@gmail.com<br>
+password: magicmirror<br>
 
 
 <h4>Youtube video:-</h4>
-https://www.youtube.com/watch?v=lDdu4Cqn7X4<br/>
+https://www.youtube.com/watch?v=lDdu4Cqn7X4<br>
 
 
-Pictures coming soon!<br/>
+You can view the pictures in the 'Pictures' folder<br>
