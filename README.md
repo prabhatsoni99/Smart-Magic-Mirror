@@ -1,33 +1,56 @@
-<h4>Reference:-</h4>
-https://github.com/HackerShackOfficial/Smart-Mirror<br>
-This is an excellent starter code! Though I might argue ours is better ;)<br>
+# Smart-Magic Mirror
+
+# Notice!
+Our Gmail API and Google Calender API are not working as of now. They seem to have expired.
+We plan to fix them soon.
+
+# Reference: HackerShack's Smart Mirror
+- [Github](https://github.com/HackerShackOfficial/Smart-Mirror)
+- [Youtube](https://www.youtube.com/watch?v=fkVBAcvbrjU)
+
+This is an excellent starter code! Though I might argue ours is better ;)
+
+# Implementation
+- ```Tkinter``` library in Python to provide GUI
+- Used APIs like Gmail, Google Calender, BBC News API to fetch data
+- Various data from API are updated on the screen every few seconds
+
+# Google Assistant
+- Google Assistant. Unrelated to the ```MagicMirror.py``` script though
+- The ```MagicMirror.py``` script ran in parallel with the Google Assistant script
+
+[How to implement Google Assistant in a device (eg. Raspberry Pi)](https://developers.google.com/assistant/sdk/)
+
+# How To Use
+
+1. Install the dependencies.
+```$ ./install_dependencies.sh```
+2. Execute
+```$ ./execute-me.sh```
+In our case, we also executed another script (Google Assistant script) alongside the main script.
+If you want to run another script parallely, open another Terminal, and run the 2nd script there.
+
+# Credentials
+
+Please avoid messing around with the credentials of the e-mail.
+You are free to send mails to this e-mail, make new Calender events, etc.
+
+| Email | Password |
+| ---- | ---- |
+| kapsmirror@gmail.com | magicmirror |
+
+# Video & Pictures
+- Video
+[Our Youtube video](https://www.youtube.com/watch?v=lDdu4Cqn7X4)
+- Pictures
+```cd ./Pictures/```
+From the parent directory
 
 
-IED Project by - Prabhat, Kshitij, Anshul, Sargam<br>
-Magic Mirror<br>
-Software side - Anshul, <u>Prabhat</u><br>
-Hardware side - Sargam, Kshitij<br>
+# Meet The Team!
 
+| Software | Hardware |
+| ------ | ------ |
+| Anshul, [Prabhat](https://github.com/prabhatsoni99) | [Sargam](https://github.com/sargamm), [Kshitij](https://github.com/kkshitij-agrawal) |
 
-Our project also included Google Assistant - a very cool thing<br>
-We implemented it parallely with this code & Google Asst. had no relation with this code<br>
-Check out this on how to implement Google Asst. in a device:-<br>
-https://developers.google.com/assistant/sdk/
-
-
-<h4>Dependencies you must install in order for this code to work:-</h4>
-<code>sudo apt-get install python-imaging-tk</code><br>
-<code>sudo pip3 install geocoder</code><br>
-<code>pip3 install --upgrade google-api-python-client</code><br>
-<code>pip3 install google_auth_oauthli</code><br>
-
-
-<h4>Credentials used for Gmail, Google Calender</h4>
-email: <b>kapsmirror@gmail.com</b><br>
-password: <b>magicmirror</b><br>
-
-
-<h4>Video & Pictures</h4>
-https://www.youtube.com/watch?v=lDdu4Cqn7X4<br>
-You can view the pictures in the 'Pictures' folder<br>
-<br>
+This project was a part of Introduction to Engineering Design Course, IIIT Delhi
