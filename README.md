@@ -1,5 +1,6 @@
 # Smart-Magic Mirror
 
+
 # Notice!
 Our Gmail API and Google Calender API are not working as of now. They seem to have expired.
 We plan to fix them soon.
@@ -26,13 +27,13 @@ This is an excellent starter code! Though I might argue ours is better ;)
 1. Install the dependencies.
 ```$ ./install_dependencies.sh```
 2. Execute
-```$ ./execute-me.sh```
-In our case, we also executed another script (Google Assistant script) alongside the main script.
+```$ ./execute-me.sh```\
+In our case, we also executed another script (Google Assistant script) alongside the main script.\
 If you want to run another script parallely, open another Terminal, and run the 2nd script there.
 
 # Credentials
 
-Please avoid messing around with the credentials of the e-mail.
+Please avoid messing around with the credentials of the e-mail.\
 You are free to send mails to this e-mail, make new Calender events, etc.
 
 | Email | Password |
@@ -40,11 +41,10 @@ You are free to send mails to this e-mail, make new Calender events, etc.
 | kapsmirror@gmail.com | magicmirror |
 
 # Video & Pictures
-- Video
+- Video\
 [Our Youtube video](https://www.youtube.com/watch?v=lDdu4Cqn7X4)
-- Pictures
-```cd ./Pictures/```
-From the parent directory
+- Pictures\
+`cd Pictures` from the parent directory
 
 
 # Meet The Team!
@@ -53,4 +53,4 @@ From the parent directory
 | ------ | ------ |
 | Anshul, [Prabhat](https://github.com/prabhatsoni99) | [Sargam](https://github.com/sargamm), [Kshitij](https://github.com/kkshitij-agrawal) |
 
-This project was a part of Introduction to Engineering Design Course, IIIT Delhi
+This project was a part of [Introduction to Engineering Design Course](https://dilab.iiitd.ac.in/ied2019.html), IIIT Delhi
